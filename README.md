@@ -2,13 +2,13 @@
 # Computer Vision
 ## School of Engineering and Applied Science, Ahmedabad Univerisity
 
-You can use the [editor on GitHub](https://github.com/burglarhobbit/cvprojects2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Faculty
+Dr. Mehul Raval | [Profile](https://ahduni.edu.in/seas/people/faculty/mehul-s-raval)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Computer Vision Projects
+### Estimating Pulse Rate using facial video recording
+#### Aneri Sheth, Janki Desai, Rupande Shastri
+Given a facial video recording, the task is to estimate pulse rate using non contact techniques. The concepts include computer vision, facial recognition and detection and signal processing techniques.
 
 ```markdown
 Syntax highlighted code block
