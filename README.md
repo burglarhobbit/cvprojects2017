@@ -14,7 +14,7 @@ Dr. Mehul Raval | [Profile](https://ahduni.edu.in/seas/people/faculty/mehul-s-ra
 Caravana, an online car startup has provided screenshots of cars present in their inventory and has posed a challenge on Kaggle to automate their masking process (i.e. removing background). Problem occurs where car color matches the background, intensity of light also proves a hindrance here. A classical Image segmentation problem, in the form of live kaggle challenge.
 
 ### Video Tagging
-[Report](./DBProgrammers/CV_Report_DBProgrammers.pdf) | [PPT](./DBProgrammers/CV_PPT_DBProgrammers.pdf)
+[Report](./DBrogrammers/CV_Report_DBrogrammers.pdf) | [PPT](./DBrogrammers/CV_PPT_DBrogrammers.pdf)
 
 **Varad Bhogayata, Ratnesh Shah, Prerak Raja, Madhav Chavda**<br>
 Given an input video, generate appropriate description by analyzing each frame of the video and thereby, describing the crux of the entire video. Application: Preventing fake videos by providing video captions,  Blind Navigation,  Video tagging which facilitates in searching videos.
