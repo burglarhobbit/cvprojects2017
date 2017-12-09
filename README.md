@@ -25,11 +25,11 @@ Given an input video, generate appropriate description by analyzing each frame o
 **Akash Soni, Kashish Shah, Raj Shah**<br>
 This project implements a hand recognition and hand gesture recognition system. A histogram based approach would be used to separate out a hand from the background image. Background cancellation techniques would be used to obtain optimum results. The detected hand is then processed and modelled to recognize finger and palm positions and dimensions. Finally, a Gesture object would be created from the recognized pattern which is compared to a defined gesture dictionary.
 
-### Traffic Management using Pattern and Surrounding Analysis
+### Human Height Estimation in Video
 [Report](./Videre/CV_Report_Videre.pdf) | [PPT](./Videre/CV_PPT_Videre.pptx)
 
 **Aashima Yuthika, Deep Patel, Divya Patel, Maunil Vyas**<br>
-We are focusing on analysis and consecutively, management, of various traffic conditions by analysing factors in a traffic like, density, motion of the clusters, along with the surroundings. This can help in making predictive analysis of traffic patterns under various circumstances, for example, when an accident has occurred, how does it affect the traffic conditions in the surrounding areas, thus helping in diverting the traffic to a place with less congestion.
+Surveillance cameras are omnipresent in today’s world. This has a lot of advantages especially, in finding individuals for a variety of reasons. Use of hard biometrics for person identification is an accurate but intrusive. Due to this reason, soft biometrics has gained a lot of popularity. In this project we explore the height of a person as a soft biometric feature for identification. We are dividing the height of people into three categories – short, medium and tall. The estimation is done using a calibration matrix and detecting the person in the video sequence.
 
 ### Estimating Pulse Rate using facial video recording
 [Report](./JAR/CV_Report_JAR.pdf) | [PPT](./JAR/CV_PPT_JAR.pptx)
