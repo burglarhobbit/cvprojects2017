@@ -19,7 +19,7 @@ Given a facial video recording, the task is to estimate pulse rate using non con
 #### Akash Soni, Kashish Shah, Raj Shah
 This project implements a hand recognition and hand gesture recognition system. A histogram based approach would be used to separate out a hand from the background image. Background cancellation techniques would be used to obtain optimum results. The detected hand is then processed and modelled to recognize finger and palm positions and dimensions. Finally, a gesture object would be created from the recognized pattern which is compared to a defined gesture dictionary.
 
-<h3> Traffic Management using Pattern and Surrounding Analysis </h3> [Report](./Videre/CV_Report_Videre.pdf) | [PPT](./Videre/CV_PPT_Videre.pptx)
+<h4> Traffic Management using Pattern and Surrounding Analysis </h4> [Report](./Videre/CV_Report_Videre.pdf) | [PPT](./Videre/CV_PPT_Videre.pptx)
 #### Aashima Yuthika, Deep Patel, Divya Patel, Maunil Vyas
 We are focusing on analysis and consecutively, management, of various traffic conditions by analysing factors in a traffic like, density, motion of the clusters, along with the surroundings. This can help in making predictive analysis of traffic patterns under various circumstances, for example, when an accident has occurred, how does it affect the traffic conditions in the surrounding areas, thus helping in diverting the traffic to a place with less congestion.
 
