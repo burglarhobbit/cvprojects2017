@@ -7,7 +7,7 @@ Dr. Mehul Raval | [Profile](https://ahduni.edu.in/seas/people/faculty/mehul-s-ra
 
 ## Computer Vision Projects
 
-<h6> <h3> Caravana Image Masking Challenge </h3> [Report](./CIMC/CV_Report_CIMC.pdf) | [PPT](./CIMC/CV_PPT_CIMC.pptx) </h6>
+<h3 style="display:inline"> Caravana Image Masking Challenge </h3> <h6 style="display:inline">[Report](./CIMC/CV_Report_CIMC.pdf) | [PPT](./CIMC/CV_PPT_CIMC.pptx) </h6>
 #### Bhavya Patwa, Deval Shah, Karan Patel, Parth Shah
 Caravana an online car startup has provided screenshots of cars present in their inventory and has posed a challenge on Kaggle to automate their masking process (i.e. removing background). Problem occurs where car color matches the background, intensity of light also proves a hindrance here. A classical Image segmentation problem, in the form of live kaggle challenge.
 
