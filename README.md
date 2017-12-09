@@ -36,3 +36,18 @@ We are focusing on analysis and consecutively, management, of various traffic co
 
 **Aneri Sheth, Janki Desai, Rupande Shastri**<br>
 Given a facial video recording, the task is to estimate pulse rate using non contact techniques. The concepts include computer vision, facial recognition and detection and signal processing techniques.
+
+### Useful Resources
+
+#### Blogs
+
+- [CS231n Stanford](http://cs231n.stanford.edu/)
+
+#### Softwares & Packages
+- [OpenCV-Python](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
+- [Tensorflow](https://www.tensorflow.org)
+- [Keras](https://keras.io/)
+- [CUDA](http://www.nvidia.com/object/cuda_home_new.html)
+- [IPython](https://ipython.org/ipython-doc/3/interactive/tutorial.html)
+- [Anaconda](https://www.continuum.io/downloads)
+- [scikit-learn](http://scikit-learn.org/stable/)
