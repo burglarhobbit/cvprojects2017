@@ -5,7 +5,7 @@
 ### Faculty
 Dr. Mehul Raval | [Profile](https://ahduni.edu.in/seas/people/faculty/mehul-s-raval)
 
-## Computer Vision Projects
+## Projects
 
 ### Caravana Image Masking Challenge
 [Report](./CIMC/CV_Report_CIMC.pdf) | [PPT](./CIMC/CV_PPT_CIMC.pptx)
