@@ -17,7 +17,7 @@ Caravana, an online car startup has provided screenshots of cars present in thei
 [Report](./DBProgrammers/CV_Report_DBProgrammers.pdf) | [PPT](./DBProgrammers/CV_PPT_DBProgrammers.pdf)
 
 **Varad Bhogayata, Ratnesh Shah, Prerak Raja, Madhav Chavda**<br>
-Given a facial video recording, the task is to estimate pulse rate using non contact techniques. The concepts include computer vision, facial recognition and detection and signal processing techniques.
+Given an input video, generate appropriate description by analyzing each frame of the video and thereby, describing the crux of the entire video. Application: Preventing fake videos by providing video captions,  Blind Navigation,  Video tagging which facilitates in searching videos.
 
 ### Hand Gesture Recognition
 [Report](./TheWildCards/CV_Report_TheWildCards.pdf) | [PPT](./TheWildCards/CV_PPT_TheWildCards.pptx)
