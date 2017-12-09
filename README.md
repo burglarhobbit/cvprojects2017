@@ -1,5 +1,4 @@
-![ConceptMap]
-(./images/cv_concept.jpg)
+![ConceptMap](./images/cv_concept.jpg)
 # Computer Vision
 ## School of Engineering and Applied Science, Ahmedabad Univerisity
 
