@@ -6,7 +6,7 @@
 Dr. Mehul Raval | [Profile](https://ahduni.edu.in/seas/people/faculty/mehul-s-raval)
 
 ## Computer Vision Projects
-### Estimating Pulse Rate using facial video recording
+### - Estimating Pulse Rate using facial video recording
 #### Aneri Sheth, Janki Desai, Rupande Shastri
 Given a facial video recording, the task is to estimate pulse rate using non contact techniques. The concepts include computer vision, facial recognition and detection and signal processing techniques.
 
